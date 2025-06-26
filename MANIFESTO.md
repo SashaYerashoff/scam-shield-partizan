@@ -1,6 +1,7 @@
 # ScamShield Partizan Manifesto
 
 We don’t teach people to spot scams. We teach scams not to bother.
+ Let's take a burden of proof to the caller!
 
 Modern scams and telemarketers are fast, intelligent, and relentless. But so are we.
 
