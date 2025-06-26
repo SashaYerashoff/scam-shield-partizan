@@ -1,7 +1,8 @@
 # ScamShield Partizan Manifesto
 
 We don’t teach people to spot scams. We teach scams not to bother.
- Let's take a burden of proof to the caller!
+
+Let's take a burden of identity proof to the caller!
 
 Modern scams and telemarketers are fast, intelligent, and relentless. But so are we.
 
@@ -16,10 +17,9 @@ We will build a **barrier between scams and telemarketers, and the people least 
 ---
 
 ## 👀 Our Targets
-
-- Elderly users who don’t understand voice deepfakes
+- Elderly users who don’t understand voice deepfakes or isn't aware on the latest scam scheme.
 - Isolated people at risk of manipulation
-- Anyone sick of being called by a “bank” that demands gift cards
+- Anyone who is tired to think if this call is scam, some unnecessary shit they want to sell you, or is aligned with Your goals and is actually relevant.
 
 ---
 
